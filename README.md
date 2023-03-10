@@ -1,19 +1,21 @@
-<h1 align="center">Oi, sou Izabelle Salles</h1><h3 align="center">Posusu certificações voltadas para Análise e Ciência de Dados no mundo Digital</h3>
 
 
-- Atualmente estou trabalhando com mineração de Dados que são publicados no portal de transparência do Na Hora do Distrito Federal [https://www.nahora.df.gov.br/relatorio-de-atendimentos/](https://www.nahora.df.gov.br/relatorio-de-atendimentos/)
 
-- Estou aprendendo tecnologias voltadas para dados: **SQL, R, criação de dashboard pelo Power BI**
-- Posuo conhecimentos mais avançados em **SQL, C, PHP, Power BI, Excel, Fundamentos de Dados, Google Data Studio** com certificações
-- E-mail para contado **izabellenunes039@gmail.com**
+<h1>Olá! Sou Izabelle Salles</h1><h3 >
+
+Graduanda de Ciência da Computação pela Intituto Federal de Brasília e  possuo certificações voltadas para Análise e Ciência de Dados no mundo Digital, área por qual sou apaixonada e desejo cada vez mais me profissionalizar colaborando em projetos de dados para aprendizagem profunda e entrar no mercado de trabalho. </h3>
 
 
-- Aqui está meu perfil profissional do linkedin [https://www.linkedin.com/in/izabelle-salles-08402421b/](https://www.linkedin.com/in/izabelle-salles-08402421b/)
+Atualmente estou trabalhando com o tratamento de Dados Públicos para o portal de transparência do Na Hora do Distrito Federal. Realizei a mineração de bancos de dados de antigas empresas que atuaram na administração e desenvolvimento das Unidades do Na Hora para que fossem entregues informações sobre os serviços e atendimentos no período de 2017 a 2021, sendo alguns deles utilizados para publicação em relatórios de atendimentos, na seguinte página: [https://www.nahora.df.gov.br/relatorio-de-atendimentos/](https://www.nahora.df.gov.br/relatorio-de-atendimentos/)
 
-<h3 align="left">Conecte-se comigo:</h3><p align="left">
+Estou aprendendo tecnologias voltadas para dados como SQL, R, criação de dashboard pelo Power BI.
+Possuo conhecimentos mais avançados em SQL, C, PHP, Power BI, Excel, Fundamentos de Dados, Google Data Studio com certificações.
 
-<a href="https://linkedin.com/in/https://www.linkedin.com/in/izabelle-salles-08402421b/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/izabelle-salles-08402421b/" height="30" width="40" /></a >
-<a href="https://instagram.com/@izabellelouisee" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="@izabellelouisee" height="30" width="40" /></a></p><h3 align="left">Idiomas e Ferramentas:</h3>
+E-mail para contado **izabellenunes039@gmail.com**
+
+[<img src="https://img.shields.io/badge/twitter-%231DA1F2.svg?&style=for-the-badge&logo=twitter&logoColor=white" />](https://twitter.com/picarall)  [<img src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" />](https://www.linkedin.com/in/izabelle-salles-08402421b/) [<img src = "https://img.shields.io/badge/instagram-%23E4405F.svg?&style=for-the-badge&logo=instagram&logoColor=white">](https://www.instagram.com/izabellelouisee/) [<img src = "https://img.shields.io/badge/facebook-%231877F2.svg?&style=for-the-badge&logo=facebook&logoColor=white">](https://www.facebook.com/izabellelouise)
+
+Ferramentas:</h3>
 
 
 
@@ -21,18 +23,3 @@
 
 <p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=izabellesalles&show_icons=true&locale=en&layout=compact" alt="izabellesalles" /></p>
 
-
-<!--
-**izabellelouise/izabellelouise** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
