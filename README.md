@@ -3,7 +3,7 @@
 
 <h1>Olá! Sou Izabelle Salles</h1><h3 >
 
-Graduanda de Ciência da Computação pela Intituto Federal de Brasília e  possuo certificações voltadas para Análise e Ciência de Dados no mundo Digital, área por qual sou apaixonada e desejo cada vez mais me profissionalizar colaborando em projetos de dados para aprendizagem profunda e entrar no mercado de trabalho. </h3>
+Graduanda de Ciência da Computação pela Intituto Federal de Brasília e  possuo certificações voltadas para Análise e Ciência de Dados no mundo Digital, área por qual sou apaixonada e desejo cada vez mais me profissionalizar e colaborar em projetos de dados para aprendizagem profunda com a finalidade de entrar no mercado de trabalho com muita qualificação. </h3>
 
 
 Atualmente estou trabalhando com o tratamento de Dados Públicos para o portal de transparência do Na Hora do Distrito Federal. Realizei a mineração de bancos de dados de antigas empresas que atuaram na administração e desenvolvimento das Unidades do Na Hora para que fossem entregues informações sobre os serviços e atendimentos no período de 2017 a 2021, sendo alguns deles utilizados para publicação em relatórios de atendimentos, na seguinte página: [https://www.nahora.df.gov.br/relatorio-de-atendimentos/](https://www.nahora.df.gov.br/relatorio-de-atendimentos/)
